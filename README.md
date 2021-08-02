@@ -1,6 +1,4 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+
 
 <p align="center">
 <br/>
@@ -35,35 +33,6 @@ currently_learning: ["Behaviour Trees", "PetriNets"]
 hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
           "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
 
-relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
-```
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-
-<p align="center">
-  <a href="https://guilyx.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://guilyx.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
-</p>
- 
-```yaml
-section: spotify components info
-tutorial_path: guilyx/guilyx/how-to.md
-original_idea: natemoo-re
-improved_by: andyruwruw
-note: thanks to both of them!
-```
-
-
-**:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/cmrobotics/navigation2/pull/2) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
