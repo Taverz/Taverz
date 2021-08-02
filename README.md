@@ -32,7 +32,7 @@ Hi, I'm Elon Tang, a frontend engineer from China 🇨🇳. Dedicated to being a
 
 ---
 ### Mi project:
-
+- ⚡️ E-Com project: Clothes Fashion [click see project](https://github.com/Taverz/ecomproj)
 ---
 
 <!--START_SECTION:waka-->
