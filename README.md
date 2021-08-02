@@ -5,7 +5,11 @@
 </p>  
 
 
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
+<h1 align="center">Hi there, I'm
+  <a href="" target="_blank">
+    Nikita Kovalev
+  </a> 
+  <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
@@ -21,7 +25,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Hi, I'm Elon Tang, a frontend engineer from China 🇨🇳. Dedicated to being a fullstack engineer.
+Hi, I'm Nikita Kovalev, a mobile developer.
 
 
 
@@ -61,15 +65,10 @@ Hi, I'm Elon Tang, a frontend engineer from China 🇨🇳. Dedicated to being a
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: Moscow
 
-💬 Programming Languages: 
-Python                  320 hr                █████████████░░░░░░░░░░░░   53.55% 
-YAML                    1 hr 27 mins          █████░░░░░░░░░░░░░░░░░░░░   22.37% 
-Other(Ruby)             46 hr                 █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
-Kotlin                  480 hr                ███████████████████░░░░░░   74.32%
-Java                    520 hr                ████████████████████░░░░░   78.24%
-Dart                    520 hr                ████████████████████░░░░░   78.24%
+Python                  5 hr              ███████░░░░░░░░░░░░░░░░░░   20% 
+Flutter                 52 hr             ████████████████████░░░░░   78.24%
 
 ```
 <hr>
