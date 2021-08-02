@@ -35,6 +35,25 @@ Hi, I'm Elon Tang, a frontend engineer from China 🇨🇳. Dedicated to being a
 - ⚡️ E-Com project: Clothes Fashion [click see project](https://github.com/Taverz/ecomproj)
 ---
 
+### Language
+<div>
+  <img src="image/adobe-xd.svg" height="40" />
+<img src="image/android-original-wordmark.svg" height="40" />
+  <img src="image/dartlang-icon.svg" height="40" />
+  <img src="image/figma-icon.svg" height="40" />
+  <img src="image/flutterio-icon.svg" height="40" />
+  <img src="image/git-scm-icon.svg" height="40" />
+  <img src="image/java-original.svg" height="40" />
+  <img src="image/kotlinlang-icon.svg" height="40" />
+  <img src="image/linux-original.svg" height="40" />
+  <img src="image/mongodb-original-wordmark.svg" height="40" />
+  <img src="image/pocoo_flask-icon.svg" height="40" />
+  <img src="image/postgresql-original-wordmark.svg" height="40" />
+  <img src="image/python-original.svg" height="40" />
+  <img src="image/realm.svg" height="40" />
+  <img src="image/sqlite-icon.svg" height="40" />
+</div>
+     
 <!--START_SECTION:waka-->
 
 
@@ -61,24 +80,7 @@ Dart                    520 hr                ███████████�
 </hr>
 
 
-### Language
-<div>
-  <img src="image/adobe-xd.svg" height="40" />
-<img src="image/android-original-wordmark.svg" height="40" />
-  <img src="image/dartlang-icon.svg" height="40" />
-  <img src="image/figma-icon.svg" height="40" />
-  <img src="image/flutterio-icon.svg" height="40" />
-  <img src="image/git-scm-icon.svg" height="40" />
-  <img src="image/java-original.svg" height="40" />
-  <img src="image/kotlinlang-icon.svg" height="40" />
-  <img src="image/linux-original.svg" height="40" />
-  <img src="image/mongodb-original-wordmark.svg" height="40" />
-  <img src="image/pocoo_flask-icon.svg" height="40" />
-  <img src="image/postgresql-original-wordmark.svg" height="40" />
-  <img src="image/python-original.svg" height="40" />
-  <img src="image/realm.svg" height="40" />
-  <img src="image/sqlite-icon.svg" height="40" />
-     </div>
+
 
 
 
