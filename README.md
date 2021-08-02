@@ -55,6 +55,7 @@ Java                    520 hr                ███████████�
 
 
 ### Language
+<div>
   <img src="image/adobe-xd.svg" height="40" />
 <img src="image/android-original-wordmark.svg" height="40" />
   <img src="image/dartlang-icon.svg" height="40" />
@@ -70,7 +71,7 @@ Java                    520 hr                ███████████�
   <img src="image/python-original.svg" height="40" />
   <img src="image/realm.svg" height="40" />
   <img src="image/sqlite-icon.svg" height="40" />
-     
+     </div>
 
 
 
