@@ -40,7 +40,7 @@ Hi, I'm Nikita Kovalev, a mobile developer.
 ---
 ---
 ### Обучение:
-- ⚡️ ![alt text](https://github.com/Taverz/Taverz/image/master/architecture_release_it.jpg?raw=true)
+- ⚡️ ![alt text](https://github.com/Taverz/Taverz/blob/master/image/architecture_release_it.jpg?raw=true)
 ---
 
 ### Language
