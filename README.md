@@ -38,6 +38,10 @@ Hi, I'm Nikita Kovalev, a mobile developer.
 ### Mi project:
 - ⚡️ E-Com project: Clothes Fashion [click see project](https://github.com/Taverz/ecomproj)
 ---
+---
+### Обучение:
+- ⚡️ ![alt text](https://github.com/Taverz/Taverz/image/master/architecture_release_it.jpg?raw=true)
+---
 
 ### Language
 <div>
