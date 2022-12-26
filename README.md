@@ -27,7 +27,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 # Hi, I'm Nikita Kovalev, a mobile developer.
 
-
+<div> <img src="image/big_main_me_photo.png" height="80" width="160"  /> </div>
 
 <!--START_SECTION:activity-->
 
