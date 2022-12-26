@@ -13,17 +13,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
-
-
-
-</a>
-<a href="mailto:nikita3kovalev3@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
-
-</a>
-
-<br />
-<br />
+<!-- ds -->
 
 # Hi, I'm Nikita Kovalev, a mobile developer.
 
@@ -33,7 +23,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--END_SECTION:activity-->
 
+</a>
+<a href="mailto:nikita3kovalev3@gmail.com">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 
+</a>
+
+<br />
+<br />
 ---
 ### Mi project:
 - ⚡️ E-Com project: Clothes Fashion [click see project](https://github.com/Taverz/ecomproj)
