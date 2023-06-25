@@ -32,8 +32,28 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 ---
-### Mi project:
+### Mi project:   
 - ⚡️ E-Com project: Clothes Fashion [click see project](https://github.com/Taverz/ecomproj)
+
+Current project:   
+
+[TODO list](https://github.com/Taverz/tod_list_managmant)   
+[Medical](https://github.com/Taverz/medical)   
+[Expositions](https://github.com/Taverz/expositions)   
+[Crypto Quest](https://github.com/Taverz/crypto_quest)   
+<!-- 
+[Mobileorders](https://github.com/Taverz/mobileorders)   
+--> 
+
+Old project:
+
+[Ecomproj](https://github.com/Taverz/ecomproj)   
+[Fantlang](https://github.com/Taverz/fantlang)  
+
+<!-- 
+[Japandctionary](https://github.com/Taverz/japandctionary)  
+[Language_App](https://github.com/Taverz/Language_App)  
+--> 
 ---
 
 
