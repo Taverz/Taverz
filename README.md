@@ -34,8 +34,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ---
 ### Mi project:  
 
-- ⚡️ E-Com project: Clothes Fashion [click see project](https://github.com/Taverz/ecomproj)
-
 Current project:   
 
 - ⚡️[TODO list](https://github.com/Taverz/tod_list_managmant)
@@ -48,8 +46,7 @@ Current project:
 --> 
 
 Old project:  
-
-- ⚡️[Ecomproj](https://github.com/Taverz/ecomproj)   
+- ⚡️ E-Com project: Clothes Fashion [click see project](https://github.com/Taverz/ecomproj)   
 - ⚡️[Fantlang](https://github.com/Taverz/fantlang)  
 
 <!-- 
