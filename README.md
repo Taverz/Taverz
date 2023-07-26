@@ -37,18 +37,19 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 Current project:   
 
 - ⚡️[TODO list](https://github.com/Taverz/tod_list_managmant)
+<!-- 
 - ⚡️[Expositions](https://github.com/Taverz/expositions)
 - ⚡️[Crypto Quest](https://github.com/Taverz/crypto_quest)   
 - ⚡️[Medical](https://github.com/Taverz/medical)   
- 
+ --> 
 <!-- 
 [Mobileorders](https://github.com/Taverz/mobileorders)   
 --> 
-
+<!-- 
 Old project:  
 - ⚡️ E-Com project: Clothes Fashion [click see project](https://github.com/Taverz/ecomproj)   
 - ⚡️[Fantlang](https://github.com/Taverz/fantlang)  
-
+--> 
 <!-- 
 [Japandctionary](https://github.com/Taverz/japandctionary)  
 [Language_App](https://github.com/Taverz/Language_App)  
