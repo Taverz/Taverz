@@ -19,18 +19,31 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <div> <img src="image/big_main_me_photo.png" height="350" width="660"  /> </div>
 
+<!-- [![Taverz | Gmail](https://cdn.simpleicons.org/gmail/black/white  'Codey the Codecademy mascot')](mailto:nikita3kovalev3@gmail.com) -->
+
+<p>
+
+[<img align="left" alt="Taverz | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:nikita3kovalev3@gmail.com)    
+[<img align="left" alt="Taverz | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/)  
+[<img align="left" alt="Taverz | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/black/white" />](https://twitter.com/intent/follow?screen_name=)  
+[<img align="left" alt="Taverz | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/wertego)    
+[<img align="left" alt="Taverz | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" />](https://instagram.com/) 
+
+</p>
+<!-- <br/>   -->
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</a>
-<a href="mailto:nikita3kovalev3@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+<!-- </a> -->
+<!-- <a href="mailto:nikita3kovalev3@gmail.com">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" /> -->
 
-</a>
+<!-- </a> -->
 
+<!-- <br /> -->
 <br />
-<br />
+
 ---
 ### Mi project:  
 
