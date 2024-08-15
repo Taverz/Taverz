@@ -39,6 +39,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 * [интеграция с ATOL Online ( https://atol.online/ ) ](https://pub.dev/packages/atol_online_dart) - Пакет для работы с чеками при оплате через терминал.
 * [полный набор для работы с оплатой](https://pub.dev/packages/atol_online_dart) - Пакет для полного цикла работы с операцией оплаты, от оплаты до чеков и возвратов.
 
+## Пример использования и работы пакетов
+<img src="images/small-image.png" alt="Пример реализации" width="200"/>
+
+
 <br />
  Smile:
 <div>
