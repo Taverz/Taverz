@@ -40,7 +40,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 * [полный набор для работы с оплатой](https://pub.dev/packages/atol_online_dart) - Пакет для полного цикла работы с операцией оплаты, от оплаты до чеков и возвратов.
 
 ## Пример использования и работы пакетов
-<img src="images/small-image.png" alt="Пример реализации" width="200"/>
+<img src="image/terminal_kiosk_example.jpeg" alt="Пример реализации" width="200"/>
 
 
 <br />
