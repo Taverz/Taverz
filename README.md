@@ -32,8 +32,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
+## Мои пакеты
 
+При разработке оплаты для заведений понадобились интеграции с чеками и сервисами оплаты и POS терминалами. Была сделана интеграция и внедрена на обьекты, пакеты в доработке.
 
+* [интеграция с ATOL Online ( https://atol.online/ ) ](https://pub.dev/packages/atol_online_dart) - Пакет для работы с чеками при оплате через терминал.
+* [полный набор для работы с оплатой](https://pub.dev/packages/atol_online_dart) - Пакет для полного цикла работы с операцией оплаты, от оплаты до чеков и возвратов.
+
+<br />
  Smile:
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
