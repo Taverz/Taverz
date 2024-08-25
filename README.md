@@ -32,9 +32,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />  
 
+<i class="fa-brands fa-medium"></i>
+
 ## Блог
 
-* [Medium](https://medium.com/@nikita3kovalev3) - Технический блог @Medium.
+* [Medium](https://medium.com/@nikita3kovalev3) - Технический блог .
 
 ## OpenSource проекты в которых я учавствую  
 
