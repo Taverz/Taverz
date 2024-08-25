@@ -34,7 +34,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## Блог
 
-* [Medium](https://medium.com/@nikita3kovalev3) - Технический блог.
+* [Medium](https://medium.com/@nikita3kovalev3) - Технический блог @Medium.
 
 ## OpenSource проекты в которых я учавствую  
 
