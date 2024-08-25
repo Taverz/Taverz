@@ -36,7 +36,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## Блог
 
-* [Medium](https://medium.com/@nikita3kovalev3) - Технический блог .
+*  <img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/JPG/CMYK/Medium-Logo-Black-CMYK%401x.jpg" width="120" height="30"/> [Medium](https://medium.com/@nikita3kovalev3) - Технический блог .
 
 ## OpenSource проекты в которых я учавствую  
 
