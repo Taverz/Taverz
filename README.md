@@ -51,14 +51,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 * [Уведомления](https://github.com/Taverz/multi_notification) - Пакет для интеграции с разными сервисами уведомлений.
 
-При разработке оплаты для заведений понадобились интеграции с чеками и сервисами оплаты и POS терминалами. Была сделана интеграция и внедрена на обьекты, пакеты в доработке.
-
-* [интеграция с ATOL Online ( https://atol.online/ ) ](https://pub.dev/packages/atol_online_dart) - Пакет для работы с чеками при оплате через терминал.
-* [полный набор для работы с оплатой](https://pub.dev/packages/web_and_terminal_pay) - Пакет для полного цикла работы с операцией оплаты, от оплаты до чеков и возвратов.
-
-## Пример использования и работы пакетов
-<img src="image/terminal_kiosk_example.jpeg" alt="Пример реализации" width="200"/>
-
 
 <br />
  Smile:
