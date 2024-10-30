@@ -46,6 +46,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## Мои решения тестовых заданий на Flutter
 
 * [Написание приложение с нуля Официант](https://github.com/Taverz/waiter_test) - Приложение офифиант, для проерки скорости написания кода и подхода.
+* [Написание приложение с нуля RickAndMorty](https://github.com/Taverz/app_rickandmorty) - Приложение для работой с API RickAndMorty, отображение персонажей.
 
 ## Мои пакеты
 
