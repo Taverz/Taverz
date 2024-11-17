@@ -58,5 +58,17 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 </div>
+<div>
+# My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+# My LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/nikita3kovalev3)
+
+# My WakaTime Stats
+![Wakatime](https://wakatime.com/share/@Taverz)
+
+</div>
+
 </hr>
 
