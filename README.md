@@ -1,86 +1,83 @@
-
 <p>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
 </p>  
-
 
 <h1 align="center">Hi there, I'm
   <a href="" target="_blank">
     Nikita Kovalev
   </a> 
-  <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+</h1>
 
 <br />
-<!-- ds -->
 
-# Hi, I'm a mobile developer.
-
-
+## Hi, I'm a Mobile Developer 🚀
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
-</a>
 <a href="mailto:nikita3kovalev3@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
-
 </a>
 
 <br />
-<br />  
+<br />
 
-<i class="fa-brands fa-medium"></i>
+## 📝 Blog
 
-## Блог
+*  <img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/JPG/CMYK/Medium-Logo-Black-CMYK%401x.jpg" width="120" height="30"/> [Medium](https://medium.com/@nikita3kovalev3) - Technical Blog.
 
-*  <img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/JPG/CMYK/Medium-Logo-Black-CMYK%401x.jpg" width="120" height="30"/> [Medium](https://medium.com/@nikita3kovalev3) - Технический блог .
+## OpenSource Projects I Contribute To 🌍
 
-## OpenSource проекты в которых я учавствую  
+* [AppFlowy](https://github.com/AppFlowy-IO/appflowy-editor) - A Notion-like app for notes. I'm currently fixing bugs and working towards becoming a contributor to this project.
 
-* [AppFlowy](https://github.com/AppFlowy-IO/appflowy-editor) - Приложение аналог Notion для заметок, на мой взгляд очень сложное и хорошо прокачивает навыки и опыт программирования на Flutter. На данный момент занимаюсь фиксом багов, в будуще хочу стать контребьютерем этого проекта (одно из условий фиксить баги чтобы показать навыки), что довольно сложно так как баги в основном сложные, которые не все могут пофисксить.
+## My Flutter Test Task Solutions 💻
 
+* [Waiter App](https://github.com/Taverz/waiter_test) - A waiter app built from scratch for testing speed and coding approach.
+* [RickAndMorty App](https://github.com/Taverz/app_rickandmorty) - An app for working with the Rick and Morty API, displaying characters.
 
-## Мои решения тестовых заданий на Flutter
+## My Packages 📦
 
-* [Написание приложение с нуля Официант](https://github.com/Taverz/waiter_test) - Приложение офифиант, для проерки скорости написания кода и подхода.
-* [Написание приложение с нуля RickAndMorty](https://github.com/Taverz/app_rickandmorty) - Приложение для работой с API RickAndMorty, отображение персонажей.
-
-## Мои пакеты
-
-* [Уведомления](https://github.com/Taverz/multi_notification) - Пакет для интеграции с разными сервисами уведомлений.
-
+* [Multi Notification](https://github.com/Taverz/multi_notification) - A package for integrating various notification services.
 
 <br />
- Smile:
+Smile:
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 </div>
-<div>
-# My GitHub Stats
+
+## My GitHub Stats 📊
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
-# My LeetCode Stats
+## My LeetCode Stats 🧩
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nikita3kovalev3)
 
-# My WakaTime Stats
+## My WakaTime Stats ⏱️
+
 ![Wakatime](https://wakatime.com/share/@Taverz)
 
-</div>
+## My Badges 📛
 
-# Welcome to My GitHub Profile
+[![GitHub followers](https://img.shields.io/github/followers/Taverz?label=Follow&style=social)](https://github.com/Taverz)
+[![GitHub stars](https://img.shields.io/github/stars/Taverz?label=Stars&style=social)](https://github.com/Taverz)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0-ff69b4?style=flat&logo=leetcode)](https://leetcode.com/your-profile)
+[![WakaTime](https://img.shields.io/badge/WakaTime-0-ff6347?style=flat&logo=wakatime)](https://wakatime.com/share/@Taverz)
+[![CISCO Certified](https://img.shields.io/badge/CISCO%20Certified-yes-blue?style=flat&logo=cisco)](https://www.cisco.com)
+[![Stack Overflow Reputation](https://img.shields.io/badge/Stack%20Overflow%20Reputation-2000-green)](https://stackoverflow.com/users/22450643/nikita-kovalev)
 
-## Latest Contribution
+# Welcome to My GitHub Profile 🌟
+
+## Latest Contribution ⏳
 ![Latest Contribution](https://github-readme-stats.vercel.app/api/pin/?username=Taverz&repo=your-latest-repo)
 
 ## Solved Algorithms 🧩
 
 ### Last Solved:
-- **Problem Name 1** - [Link to Problem](https://example.com)
-- **Problem Name 2** - [Link to Problem](https://example.com)
-- **Problem Name 3** - [Link to Problem](https://example.com)
+- **Problem Name 1** - [Link to Problem](https://example.com) 🏅
+- **Problem Name 2** - [Link to Problem](https://example.com) 🏆
+- **Problem Name 3** - [Link to Problem](https://example.com) 🥇
 
 ### Algorithms To Solve:
 - **Problem Name A** - [Link to Problem](https://example.com)
@@ -95,24 +92,20 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### Contribution History
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taverz&show_icons=true)
 
+---
 
-
-
-
-
-
-# Nikita GitHub Profile
+## Nikita's GitHub Profile
 
 Welcome to my GitHub profile! Here, you can explore my contributions, projects, and other activities that I’m involved in.
 
-## Blog Posts
+## Blog Posts 📝
 
 | Platform | Link |
 |----------|------|
 | **Medium** | [My Medium Blog](https://medium.com/@your-profile) |
 | **Habr** | [My Habr Blog](https://habr.com/en/users/your-profile/) |
 
-## Social Networks
+## Social Networks 🌐
 
 | Network | Link |
 |---------|------|
@@ -120,16 +113,15 @@ Welcome to my GitHub profile! Here, you can explore my contributions, projects, 
 | **Telegram** | [@YourTelegram](https://t.me/your-profile) |
 | **LinkedIn** | [Your LinkedIn](https://www.linkedin.com/in/your-profile) |
 
-## Contribution / Open Source
+## Contribution / Open Source 🚀
 
 | Contribution Type | Link |
 |-------------------|------|
 | **Open Source Contributions** | [My GitHub Repositories](https://github.com/Taverz) |
-| **Open Source - Contributions to Other Repositories** | [Fix Bug in Repo1](https://github.com/owner/repo1/pull/123), [Feature in Repo2](https://github.com/owner/repo2/pull/456) |
+| **Contributions to Other Repositories** | [Fix Bug in Repo1](https://github.com/owner/repo1/pull/123), [Feature in Repo2](https://github.com/owner/repo2/pull/456) |
 | **Solved Bugs / Problems** | [Solved Issues](https://github.com/Taverz/issues/solved) |
 
-
-## Algorithms / DSA
+## Algorithms / DSA 🧩
 
 | Platform | Link |
 |----------|------|
@@ -137,26 +129,25 @@ Welcome to my GitHub profile! Here, you can explore my contributions, projects, 
 | **Other Platforms** | [Your Other DSA Platforms](#) |
 | **Repository Commit** | [Your Commit Link](https://github.com/your-profile/your-repository/commit/commit-hash) |
 
-
-## My Projects (Pet Project)
+## My Projects (Pet Project) 🐾
 
 | Project Type | Link |
 |--------------|------|
-| **Pet Project** | [Link to your pet project](https://github.com/Taverz/app_rickandmorty) |
+| **Pet Project** | [Rick and Morty App](https://github.com/Taverz/app_rickandmorty) |
 
-## StackOverflow
+## StackOverflow 💬
 
 | Platform | Link |
 |----------|------|
 | **StackOverflow Profile** | [My StackOverflow](https://stackoverflow.com/users/22450643/nikita-kovalev) |
 
-## Certifications
+## Certifications 🎓
 
 | Certification | Link |
 |---------------|------|
 | **CISCO Certification** | [Link to your CISCO certification](https://www.cisco.com/certifications/your-certification) |
 
-## Self-Development
+## Self-Development 📚
 
 | Type | Details |
 |------|---------|
@@ -164,6 +155,4 @@ Welcome to my GitHub profile! Here, you can explore my contributions, projects, 
 | **Websites** | [Website 1](#), [Website 2](#) |
 | **Courses** | [Course 1](#), [Course 2](#) |
 
-
 </hr>
-
