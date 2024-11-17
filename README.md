@@ -70,5 +70,32 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 </div>
 
+# Welcome to My GitHub Profile
+
+## Latest Contribution
+![Latest Contribution](https://github-readme-stats.vercel.app/api/pin/?username=Taverz&repo=your-latest-repo)
+
+## Solved Algorithms 🧩
+
+### Last Solved:
+- **Problem Name 1** - [Link to Problem](https://example.com)
+- **Problem Name 2** - [Link to Problem](https://example.com)
+- **Problem Name 3** - [Link to Problem](https://example.com)
+
+### Algorithms To Solve:
+- **Problem Name A** - [Link to Problem](https://example.com)
+- **Problem Name B** - [Link to Problem](https://example.com)
+- **Problem Name C** - [Link to Problem](https://example.com)
+
+## Total Contributions 📈
+
+### Contributions Left:
+- You need to complete **X** more contributions to reach your goal of **Y** total contributions.
+
+### Contribution History
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taverz&show_icons=true)
+
+
+
 </hr>
 
