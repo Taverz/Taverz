@@ -105,13 +105,6 @@ Welcome to my GitHub profile! Here, you can explore my contributions, projects, 
 | **Medium** | [My Medium Blog](https://medium.com/@your-profile) |
 | **Habr** | [My Habr Blog](https://habr.com/en/users/your-profile/) |
 
-## Social Networks 🌐
-
-| Network | Link |
-|---------|------|
-| **Twitter** | [@YourTwitter](https://twitter.com/your-profile) |
-| **Telegram** | [@YourTelegram](https://t.me/your-profile) |
-| **LinkedIn** | [Your LinkedIn](https://www.linkedin.com/in/your-profile) |
 
 ## Contribution / Open Source 🚀
 
