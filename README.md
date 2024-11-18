@@ -135,6 +135,14 @@ Welcome to my GitHub profile! Here, you can explore my contributions, projects, 
 |--------------|------|
 | **Pet Project** | [Rick and Morty App](https://github.com/Taverz/app_rickandmorty) |
 
+## Events  🐾
+
+| Name | Status |
+|--------------|------|
+| **Hackaton VTB** | 2023 Участник |
+| **Hackaton DGTU** | 2023 Победитель |
+| **Cross Conf** | 2024 Участник |
+
 ## StackOverflow 💬
 
 | Platform | Link |
