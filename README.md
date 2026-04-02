@@ -40,11 +40,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://leetcard.jacoblin.cool/nikita3kovalev3?theme=dark&font=Roboto" alt="LeetCode Stats">
     <img src="https://streak-stats.demolab.com?user=Taverz&theme=blueberry&hide_border=true" alt="GitHub Streak">
   </div>
 </div>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taverz&layout=compact&theme=blueberry&hide_border=true)
   -->
 
