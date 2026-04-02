@@ -13,14 +13,14 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikita3kovalev3@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nikita3kovalev3/)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikita3kovalev3@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nikita3kovalev3/)
   
 </div>
 
----
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Taverz&color=blue&style=flat-square">
   <img src="https://img.shields.io/github/followers/Taverz?style=flat-square&label=Follow&logo=github&logoColor=gray&labelColor=white&color=lightgray">
@@ -31,7 +31,7 @@
 - 🏅 Cisco Certified Network Associate
 - 📈 1000+ commits in 2023
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -45,7 +45,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taverz&layout=compact&theme=blueberry&hide_border=true)
   -->
 
----
 
 ## 🚀 Featured Projects
 
@@ -54,6 +53,7 @@
 | **[AppFlowy Editor](https://github.com/AppFlowy-IO/appflowy-editor)** | Notion-like editor | Flutter, Dart |
 | **[Waiter App](https://github.com/Taverz/waiter_test)** | Restaurant management app | Flutter, Firebase |
 | **[RickAndMorty App](https://github.com/Taverz/app_rickandmorty)** | Character catalog | Flutter, BLoC |
+
 
 ---
 ## 🔥 My Tech Stack
