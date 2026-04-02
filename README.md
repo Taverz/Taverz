@@ -21,18 +21,9 @@
 </div>
 
 ---
- <div align="center">
-  <div style="display: flex; justify-content: center; gap: 8px; align-items: center; flex-wrap: nowrap;">
-    <img src="https://komarev.com/ghpvc/?username=Taverz&color=blue&style=flat" alt="Visitor Count" style="flex-shrink: 0;">
-    <a href="https://github.com/Taverz" style="flex-shrink: 0;">
-      <img src="https://img.shields.io/github/followers/Taverz?label=Follow&style=social" alt="GitHub followers">
-    </a>
-  </div>
-</div> 
-
 <p align="center">
-  <img height="20" width="80" src="https://komarev.com/ghpvc/?username=Taverz&color=blue&style=flat">
-  <img height="20" width="80" src="https://img.shields.io/github/followers/Taverz?style=flat&label=">
+  <img src="https://komarev.com/ghpvc/?username=Taverz&color=blue&style=flat-square">
+  <img src="https://img.shields.io/github/followers/Taverz?style=flat-square&label=Follow&logo=github&logoColor=gray&labelColor=white&color=lightgray">
 </p>
 
 ## 🏆 Achievements
@@ -46,8 +37,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://leetcard.jacoblin.cool/nikita3kovalev3?theme=dark&font=Roboto" alt="LeetCode Stats">
-    <img src="https://streak-stats.demolab.com?user=Taverz&theme=blueberry&hide_border=true" alt="GitHub Streak">
+    <img src="https://leetcard.jacoblin.cool/nikita3kovalev3?theme=dark&font=Roboto&width=400" alt="LeetCode Stats">
+    <img src="https://streak-stats.demolab.com?user=Taverz&theme=blueberry&hide_border=true&card_width=400" alt="GitHub Streak">
   </div>
 </div>
 
