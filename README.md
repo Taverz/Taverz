@@ -22,6 +22,13 @@
 
 ---
 
+## 🏆 Achievements
+- 🥇 Winner of DGTU Hackathon 2023
+- 🏅 Cisco Certified Network Associate
+- 📈 1000+ commits in 2023
+
+---
+
 ## 🔥 My Tech Stack
 
 ### 📱 Mobile Development
@@ -73,12 +80,6 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 Winner of DGTU Hackathon 2023
-- 🏅 Cisco Certified Network Associate
-- 📈 1000+ commits in 2023
-
----
 
 <div align="center">
   
