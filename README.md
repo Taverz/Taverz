@@ -22,9 +22,9 @@
 
 ---
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <img src="https://komarev.com/ghpvc/?username=Taverz&color=blue&style=flat" alt="Visitor Count">
-    <a href="https://github.com/Taverz">
+  <div style="display: flex; justify-content: center; gap: 8px; align-items: center; flex-wrap: nowrap;">
+    <img src="https://komarev.com/ghpvc/?username=Taverz&color=blue&style=flat" alt="Visitor Count" style="flex-shrink: 0;">
+    <a href="https://github.com/Taverz" style="flex-shrink: 0;">
       <img src="https://img.shields.io/github/followers/Taverz?label=Follow&style=social" alt="GitHub followers">
     </a>
   </div>
