@@ -9,7 +9,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<h3 align="center">🚀 Flutter Developer | Open Source Contributor | Problem Solver</h3>
+<h3 align="center">🚀 Flutter/Mobile Developer (Highload/E-commerce) | Open Source Contributor | Problem Solver</h3>
 
 <div align="center">
   
