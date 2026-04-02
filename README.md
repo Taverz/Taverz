@@ -21,6 +21,14 @@
 </div>
 
 ---
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="https://komarev.com/ghpvc/?username=Taverz&color=blue&style=flat" alt="Visitor Count">
+    <a href="https://github.com/Taverz">
+      <img src="https://img.shields.io/github/followers/Taverz?label=Follow&style=social" alt="GitHub followers">
+    </a>
+  </div>
+</div>
 
 ## 🏆 Achievements
 - 🥇 Winner of DGTU Hackathon 2023
@@ -29,6 +37,28 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://leetcard.jacoblin.cool/nikita3kovalev3?theme=dark&font=Roboto" alt="LeetCode Stats">
+    <img src="https://streak-stats.demolab.com?user=Taverz&theme=blueberry&hide_border=true" alt="GitHub Streak">
+  </div>
+</div>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taverz&layout=compact&theme=blueberry&hide_border=true)
+  -->
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[AppFlowy Editor](https://github.com/AppFlowy-IO/appflowy-editor)** | Notion-like editor | Flutter, Dart |
+| **[Waiter App](https://github.com/Taverz/waiter_test)** | Restaurant management app | Flutter, Firebase |
+| **[RickAndMorty App](https://github.com/Taverz/app_rickandmorty)** | Character catalog | Flutter, BLoC |
+
+---
 ## 🔥 My Tech Stack
 
 ### 📱 Mobile Development
@@ -48,30 +78,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[AppFlowy Editor](https://github.com/AppFlowy-IO/appflowy-editor)** | Notion-like editor | Flutter, Dart |
-| **[Waiter App](https://github.com/Taverz/waiter_test)** | Restaurant management app | Flutter, Firebase |
-| **[RickAndMorty App](https://github.com/Taverz/app_rickandmorty)** | Character catalog | Flutter, BLoC |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=Taverz&theme=blueberry&hide_border=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taverz&layout=compact&theme=blueberry&hide_border=true)
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/nikita3kovalev3?theme=dark&font=Roboto)
-
-</div>
-
----
-
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter State Management Comparison](https://medium.com/@nikita3kovalev3/flutter-state-management-comparison)
@@ -80,14 +86,6 @@
 
 ---
 
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=Taverz&color=blue&style=flat)
-  
-[![GitHub followers](https://img.shields.io/github/followers/Taverz?label=Follow&style=social)](https://github.com/Taverz)
-  
-</div>
 
 <div align="center">
   
