@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/Taverz" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Nikita+Kovalev!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Nikita!" alt="Typing SVG" />
   </a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
