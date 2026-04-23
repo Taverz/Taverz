@@ -37,7 +37,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://leetcard.jacoblin.cool/nikita3kovalev3?theme=dark&font=Roboto&width=400" alt="LeetCode Stats">
+    <img src="https://leetcard.jacoblin.cool/nikita3taverz3?theme=dark&font=Roboto&width=400" alt="LeetCode Stats">
     <img src="https://streak-stats.demolab.com?user=Taverz&theme=blueberry&hide_border=true&card_width=400" alt="GitHub Streak">
   </div>
 </div>
